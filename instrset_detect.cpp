@@ -5,7 +5,7 @@
 
 #ifdef VCL_NAMESPACE
 namespace VCL_NAMESPACE {
-#endif
+#endif                                                     //KA why endif here?
 
 // Define interface to cpuid instruction.
 // input:  eax = functionnumber, ecx = 0

@@ -1,5 +1,8 @@
 /* Copyright ATYX.IO 2018 */
 /* Test evaluation only */
+/* KA: This header file is to include all the appropriate header files and define Global Constants. It detect the bit mode (i.e. 64) and the instruction set architecture of the machine.
+    Once the instruction set architecture is detected, the appropriate header files are included. This keeps the
+    code lightweight and efficient */
 
 #ifndef INSTRSET_H
 #define INSTRSET_H 122

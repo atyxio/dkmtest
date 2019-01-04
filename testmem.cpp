@@ -1,5 +1,6 @@
 /* 2018 (c) ATYX.IO */
 /* Test evaluation only */
+/* KA: Testing the validity and correctness of the system's memory? */
 
 #include <stdio.h>
 #include <process.h>
