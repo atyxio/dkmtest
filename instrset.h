@@ -3,6 +3,7 @@
 /* KA: This header file is to include all the appropriate header files and define Global Constants. It detect the bit mode (i.e. 64) and the instruction set architecture of the machine.
     Once the instruction set architecture is detected, the appropriate header files are included. This keeps the
     code lightweight and efficient */
+/* Patch 1: the purpose is to collect from the underlying system architecture for deploying in the distributed key algorithms */
 
 #ifndef INSTRSET_H
 #define INSTRSET_H 122

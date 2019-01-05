@@ -1,5 +1,6 @@
 /* 2018 Copyright ATYX.IO */
 /* Test evaluation only */
+/* KA this file checks the underlying system architecture and instructions and calls specific to the instruction set architecture*/
 
 #include "instrset.h"
 
