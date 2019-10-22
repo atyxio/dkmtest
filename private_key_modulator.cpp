@@ -1,4 +1,5 @@
 /* Copyright ATYX */
+/* ISO Audit*/
 /* Distributed key generation in part using Mersenne Twister, that is combined mathematically with the node's individual intrinsic
 conditions to generate part of the private key that is shared with the peer nodes */
 
